@@ -5,7 +5,7 @@
  * @version 1.0.0
  */
 let interval;
-module.exports = class ExamplePlugin {
+module.exports = class FriendInvite {
     start() {
         const inviteManager = BdApi.findModule(m => m.createFriendInvite)
         interval = setInterval(() => {
