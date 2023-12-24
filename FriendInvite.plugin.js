@@ -1,7 +1,7 @@
 /**
  * @name FriendInvite
  * @author Fizi
- * @description Generates a friend invite link.
+ * @description Generates a friend invite link. Do not use this, its shitty.
  * @version 1.0.0
  */
 let interval;
